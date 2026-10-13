@@ -7,7 +7,7 @@ I have hands-on experience with C programming, Data Structures & Algorithms, and
 💻 Technical Skills
 
 Programming Languages:
-C, Java (Basics), JavaScript
+Python, C, Java (Basics), JavaScript
 
 Core CS Concepts:
 Data Structures & Algorithms, Operating Systems (CPU Scheduling), DBMS (Basics)
