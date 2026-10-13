@@ -16,7 +16,7 @@ Web Development:
 HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
 
 Tools & Platforms:
-Git & GitHub, VS Code, Postman, Google Cloud (Basics)
+Git & GitHub, VS Code, Postman, Docker, Google Cloud (Basics)
 
 🚀 Projects & Work
 
